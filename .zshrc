@@ -117,3 +117,6 @@ alias search='yum search'
 #export PATH="/home/yhy/anaconda3/bin:$PATH"
 
 
+################## cheat ###################
+export EDITOR=/usr/bin/vim
+export CHEATCOLORS=true

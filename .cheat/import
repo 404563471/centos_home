@@ -1,0 +1,11 @@
+#shot the full screen
+import -window root screenshot.png
+
+#selected by hand
+import screenshot.png
+
+#selected special window
+#get window_id
+xwininfo
+#make shot
+import -window window_id screenshot.png
